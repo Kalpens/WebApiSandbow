@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSandbox", "WebApiSandbox\WebApiSandbox.csproj", "{A7F6148C-54A7-4894-91D6-3754AB2EE495}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{9CC245ED-D22D-4D95-80BA-5C548D7EFEAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7F6148C-54A7-4894-91D6-3754AB2EE495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F6148C-54A7-4894-91D6-3754AB2EE495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F6148C-54A7-4894-91D6-3754AB2EE495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F6148C-54A7-4894-91D6-3754AB2EE495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC245ED-D22D-4D95-80BA-5C548D7EFEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC245ED-D22D-4D95-80BA-5C548D7EFEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC245ED-D22D-4D95-80BA-5C548D7EFEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC245ED-D22D-4D95-80BA-5C548D7EFEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
